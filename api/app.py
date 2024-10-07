@@ -8,8 +8,8 @@ def test_response():
     """Return a sample JSON response."""
     sample_response = {
         "items": [
-            { "id": 1, "name": "Apples",  "price": "$2" },
-            { "id": 2, "name": "Peaches", "price": "$5" }
+            { "id": 1, "name": "My Ass",  "price": "$4" },
+            { "id": 2, "name": "Love this", "price": "$5" }
         ]
     }
     # JSONify response

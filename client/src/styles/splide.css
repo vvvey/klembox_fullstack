@@ -34,7 +34,7 @@ to {
     margin: 0;
 }
 .splide {
-    visibility: hidden;
+    visibility: visible;
 }
 .splide, .splide__slide {
     position: relative;

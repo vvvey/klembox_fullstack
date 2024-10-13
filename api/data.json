@@ -1,0 +1,58 @@
+{
+    "products": [
+      { 
+        "id": 1, 
+        "name": "LIGHT UP!", 
+        "short_code": "electro", 
+        "coverimg": "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/5fc5624039335f8d456214a1_Electro-min.JPG",
+        "description": "What is electricity? What's a circuit? Discover these answers & more with this hands-on electricity kit! With it, grade 7-8 students can build a motor, connect circuits, conduct solar power & more. Far more than an educational toy, this electricity and circuits kit allows middle and high school kids to explore electricity with 4 step-by-step experiments, learn how to read a circuit schematic, use the Scientific Method, and more!",
+        "benefit": ["Learn the basics of electricity and investigate: Parallel & series, circuits, light bulbs, resistors, motors, electrostatic, gear ratio, pulley and more!"],
+        "features": ["Students will be able to build their own car from sketch", "This electricity kit easily adapts to any science fair and use anywhere."],
+        "images":["https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9aede611b62676bcd80_8-p-1600.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b4376f7cfdb4c23499_9-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9ae376f7c03bbc23489_10-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b0f4bfe15f24da1e48_11-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b7da6c83728424e5b2_12-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b7f4bfe13cd6da1e53_13-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9afc13b9661e2318949_14-p-1080.png"],
+        "material": ["Switch x 1", "Motor x 1", "Wheel x 4", "Car base x 1", "Car body x 1", "Axel x 3", "Pulley x 1", "Small gear x 1", "Big gear x 1", "1.5V AA battery x 2", "Breadboard x 1", "Battery Socket x 1", "Jumper wires x 5"],
+        "subject": "physics",
+        "title": "Light Up The World!",
+        "intro_video": "1Xf7pbS1bus",
+        "available": "true"
+      },
+      { 
+        "id": 2, 
+        "name": "PLANT THE SEEDS!", 
+        "short_code": "hydro", 
+        "coverimg": "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/5fc562406abc59352fcc0254_hydro-min.JPG",
+        "description": "The kit allows students to be able to get their hands on growing vegetables. They will mainly learn about hydroponic and practice scientific methods.",
+        "benefit": ["collaboration", "learn new growing technique", "learn about scientific method", "experiment: compare between plant growth"],
+        "features": [],
+        "images": ["https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b52a849572dedeb33d_1-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b50188754a85f44bae_2-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b6c13b96a67f318afa_3-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/600a5bf1cefa811f9759c344_DSC05598-min.JPG", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b3333d9d28c4744de9_4-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b410cd7f2cb3ee3358_6-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b7ce978f17a3ddb684_7-p-1080.png"],
+        "material": ["Hydroponic - Vegetable Basket x 3", "Hydroponic - Sponge x 3", "Seeds Packaging x 1", "Seeds x 1", "Germinating Box x 1", "Toilet Paper x 2", "Paper Cups x 1", "Hydroponic - Growing Cup x 1", "Pipets x 1", "Hydroponic - Nutrient (1 set) x 1", "Bottle for Hydroponic Nutrient x 2", "Kit Packaging Box x 1", "Manual book x 1"],
+        "subject": "biology",
+        "title": "Plant the Seed!",
+        "intro_video": "LIw4RnJhU5o",
+         "available": "true"
+      },
+      { 
+        "id": 3, 
+        "name": "CELL AND MICROSCOPE", 
+        "short_code": "foldscope", 
+        "coverimg": "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/5fc562400120d536b2d585da_cell-min.JPG",
+        "benefit": ["allow students to conduct classrooms and home experiment to view the microscopic world", "gain better understanding of the cell learning contents", "scientific method", "problem solving and creativity"],
+        "description": "This kit will allow the students to be able to explore the biology contents even deeper where students are able to use this kit to explore the microscopic world with their own sample.",
+        "features": ["A portable and waterproof made from paper", "Magnification of 140X and 2 micron resolution", "Make their own sample slide", "View bacteria blood cells and single-celled organisms insects fabrics organic tissues and more!"],
+        "images": ["https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9af11e3a209dc6dfbc4_15-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b64f6fad5979c51e30_16-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9afc26818052b78416b_17-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b0cb6bcd433fd08f6c_19-p-1080.png", "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/60a8b9b2d93f7dc8ec537f30_20-p-1080.png"],
+        "intro_video": "CxncS2EZMf8",
+        "material": ["Glass slides x 4", "Cover slips x 4", "Pre-made glass slide (2pcs) x 1", "Tape x 1", "Scissors x 1", "Eppendorf tubes x 2", "Tweezers x 1", "Plastic pipettes x 2", "Plastic Packaging x 10", "Student Guidebook x 1", "Safety Rule Poster x 1", "Packaging Sticker x 1", "Label Sticker x 10", "Packaging Box x 1"],
+        "subject": "biology",
+        "title": "Cell and Microscope",
+         "available": "true"
+        
+      },
+      { 
+        "id": 4, 
+        "name": "CLEAN ENERGY", 
+        "short_code": "energy", 
+        "coverimg": "https://uploads-ssl.webflow.com/5fc560888aae314ab030f312/6007e10e2d5efccec8a3179a_energy%20solar-min.JPG",
+         "available": "false"
+      }
+    ]
+  }
+  

@@ -18,7 +18,6 @@ data  = load_products()
 def custom_response(data):
     """Create a JSON response with default headers."""
     response = make_response(data)
-    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:3000'
     return response
 
 @api_v1.route('/products', methods=['GET'])
@@ -42,4 +41,4 @@ def get_product_by_short(short_code):
 app.register_blueprint(api_v1)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

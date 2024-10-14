@@ -25,7 +25,7 @@ class Product extends React.Component {
 
   componentDidMount() {
     const { short_code } = this.props.params;
-    fetch(`http://localhost:5000/api/v1.0/products/${short_code}`)
+    fetch(`/api/v1.0/products/${short_code}`)
       .then((res) => res.json())
       .then(
         (result) => {

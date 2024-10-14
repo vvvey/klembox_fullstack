@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile.prod
+    environment:
+      FLASK_ENV: production
+    expose:
+      - "5000"  # Allow Nginx to access this port
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile.prod
+    ports:
+      - "80:80"  # Allow to expose if needed but not exposed to the host directly
+    depends_on:
+      - api
